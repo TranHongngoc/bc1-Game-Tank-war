@@ -6,7 +6,7 @@
 5. tank gặp biên thì dừng lại.
 6. tạo 1 viên đạn.
 7. làm cho tank bắn đạn.
-8.tạo ra boss.
+8. tạo ra boss.
 9. đạn bắn trúng boss thì boss chết.
 10. khi boss chết ( điểm số +1).
 11. boss tự động di chuyển trong khung.
